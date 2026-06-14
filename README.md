@@ -109,7 +109,7 @@ This movie streaming website uses a third-party API and is for educational purpo
 - TMDB API
 - TailwindCSS
 
-🔗 [Demo](https://www.haophim.online/)) • [Source](https://github.com/CunoVox/movie-project.git)
+🔗 [Demo](https://www.haophim.online/) • [Source](https://github.com/CunoVox/movie-project.git)
 
 </td>
 </tr>
