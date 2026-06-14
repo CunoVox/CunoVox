@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 💼 Java Developer with experience building enterprise web applications.
-- 🔭 Currently working with **Spring Boot, JSF, GraphQL, MongoDB, and Microservices Architecture**.
+- 🔭 Currently working with **Spring Boot, JSF, Rest API, GraphQL, MongoDB, MySQL and Microservices Architecture**.
 - 🌱 Learning advanced Backend Engineering, System Design, Cloud Technologies and DevOps.
 - 🤝 Strong team collaboration and problem-solving skills.
 - 🎯 Goal: Become a Senior Backend Engineer and Software Architect.
