@@ -62,36 +62,54 @@
 ---
 
 ## 🚀 Featured Project
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
 ### 🎓 E-Learning Platform
 
-An online learning platform similar to Udemy and Coursera.
+Graduation project: An online learning platform inspired by Udemy & Coursera.
 
-#### Features
-
-- User Management
-- Course Management
-- Payment Processing
-- File Management
-- Lecturer Registration
-- Course Uploading
-
-#### Tech Stack
-
+**Tech Stack**
 - Spring Boot
 - ReactJS
-- Redux
-- Axios
-- TailwindCSS
 - MongoDB
 
-#### Links
+🔗 [Demo](https://wisdom.io.vn) • [Backend](https://github.com/e-learning-team/e-learning-api.git) • [Frontend](https://github.com/e-learning-team/e-learning-website.git)
 
-🔗 API: https://github.com/e-learning-team/e-learning-api
+</td>
 
-🔗 Frontend: https://github.com/e-learning-team/e-learning-website
+<td width="33%" valign="top">
 
-🌐 Demo: https://wisdom.io.vn
+### 🛒 Ecommerce Website
+
+This is a course project on e-commerce websites.
+
+**Tech Stack**
+- Spring Boot
+- Thymeleaf
+- MySQL
+
+🔗 [Demo](https://eco.haovo.cloud) • [Source](https://github.com/CunoVox/MaleFashion.git)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎬 Movie Website
+
+This movie streaming website uses a third-party API and is for educational purposes only.
+
+**Tech Stack**
+- NextJS
+- TMDB API
+- TailwindCSS
+
+🔗 [Demo](https://www.haophim.online/)) • [Source](https://github.com/CunoVox/movie-project.git)
+
+</td>
+</tr>
+</table>
 
 ---
 
