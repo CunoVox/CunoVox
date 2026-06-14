@@ -6,6 +6,10 @@
     <img src="https://img.shields.io/badge/Email-haovo1512%40gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
+<p align="center">
+  📍 Ho Chi Minh City, Vietnam
+</p>
+
 
 ---
 
@@ -119,34 +123,15 @@ This movie streaming website uses a third-party API and is for educational purpo
 
 ## 📊 GitHub Stats
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CunoVox&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CunoVox&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CunoVox&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CunoVox&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CunoVox&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
-## 📚 Currently Learning
-
-- Microservices Design Patterns
-- System Design
-- Docker & Kubernetes
-- AWS Cloud
-- CI/CD Best Practices
-
----
-
-## 📫 Contact
-
-- 📧 Email: haovo1512@gmail.com
-- 📍 Ho Chi Minh City, Vietnam
-
----
 
 ⭐ Feel free to explore my repositories and connect with me!
